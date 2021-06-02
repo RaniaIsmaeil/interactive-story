@@ -61,5 +61,5 @@ In the red door, after finding the illegal lab, you will either ignore and leave
 <strong> Chapter Eight: </strong>
 
 In the green door, after ignoring other people and entering the main door, you will find yourself entering the same room by the red door (sorry for that). But if you were smart enough and tried to communicate with them they will answer you towards the exit and you will successfully escape.
-In red door, if you tried to attack the guards inside the lab, they will kill you, and you will lose the game!
+In red door, if you tried to attack the guards inside the lab, they will kill you, and you will lose the game! 
 
